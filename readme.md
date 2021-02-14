@@ -2,7 +2,7 @@
 
 <br>
 
-Projeto apenas estilizado utilizado liguagens de marcação.
+Projeto apenas estilizado, utilizado linguagens de marcação.
 
 Utilizado técnica de estilização grid de css e responsividade de media querie.
 
